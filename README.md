@@ -40,7 +40,7 @@ jupyter notebook
 This project underscores the importance of a meticulous analytical approach in machine learning. Through the application of linear regression, we demonstrate how strategic feature selection and thorough model evaluation can significantly improve model accuracy and interpretability, providing valuable insights for both simple and complex predictive tasks.
 
 ## Contributing
-Contributions to this project are welcome! Please refer to the contributing guidelines for more details.
+Contributions to this project are welcome!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
