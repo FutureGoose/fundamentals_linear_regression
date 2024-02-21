@@ -1,4 +1,4 @@
-# Fundamentals of Supervised Machine Learning: Linear Regression
+# Fundamentals of Supervised Machine Learning: Linear Regression Part 1
 
 ## Overview
 This project explores the fundamentals of supervised machine learning through the lens of linear regression, one of the most foundational models in the field. Our journey encompasses the construction of a linear regression model, the application of feature selection techniques, and the evaluation of model performance. By integrating both machine learning algorithms and statistical methods, we aim to present a structured approach for developing predictive models that are both accurate and interpretable.
